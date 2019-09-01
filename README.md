@@ -1,4 +1,5 @@
 This is a sample of how to add and / or delete contacts in the Unity Connection database using the CUPI interface.  
+This was created using Python 3.6.2 and Cisco Unity Connection 12.5.
 
 Unity Connection provides the ability to add contacts manually and via the Bulk Administration tool GUI but there are some limitations.
 
