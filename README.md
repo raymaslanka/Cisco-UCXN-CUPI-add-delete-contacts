@@ -26,12 +26,7 @@ If you choose to manage those more permanant AlternateNames in a contact and via
 If you want to be able to search for the AlternateNames, you need to BAT multiple contacts with multiple bogus Extesnsions and use the DisplayName in each instead.
 
 None of this is perfect.
+
 The CUC CUPI interface allows for bulk contact additions and deletions where Extension is not required.
 
-Reads CSV file
-converts each row to XML
-posts each row XML to Unity Connection CUPI API
-
-Notes:
-CSV columns should be Alias,DisplayName,FirstName,LastName,TransferEnabled,TransferExtension
-CSV should be saved in UTF-8 format
+This sample assumes your BAT file columns will be Alias,DisplayName,FirstName,LastName,TransferEnabled,TransferExtension and saved in UTF-8 format without BOM.
