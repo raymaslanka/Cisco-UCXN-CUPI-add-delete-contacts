@@ -1,4 +1,6 @@
-This is a sample of how to add and / or delete contacts in the Unity Connection database using the CUPI interface.  Unity Connection provides the ability to add contacts manually and via the Bulk Administration tool GUI but there are some limitations.
+This is a sample of how to add and / or delete contacts in the Unity Connection database using the CUPI interface.  
+
+Unity Connection provides the ability to add contacts manually and via the Bulk Administration tool GUI but there are some limitations.
 
 When adding Unity Connection contacts manually, only the Alias (unique) and the DisplayName is required.
 When adding Unity Connection contacts via Bulk Administration, an Alias (unique) and Extension (unique) is required.
